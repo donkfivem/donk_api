@@ -1,11 +1,11 @@
 local GUILD_CONFIG = {
-    serverId = '', -- Server ID
-    botToken = '' -- Token goes here
+    serverId = 'YOUR_DISCORD_SERVER_ID',
+    botToken = 'YOUR_BOT_TOKEN'
 }
 
 local PREMIUM_ROLES = {
-    ['supporter'] = '', -- Role IDs
-    ['gunplug'] = '', -- Role ID (Gunplug)
+    ['supporter'] = 'ROLE_ID',
+    ['gunplug'] = 'ROLE_ID', -- Gunplug Role ID
 }
 
 local ROLE_CACHE = {}
