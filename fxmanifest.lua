@@ -1,7 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name "donk_api"
+author "donk"
+description "Custom Discord API Script"
 Version "1.0.0"
 lua54 'yes'
 

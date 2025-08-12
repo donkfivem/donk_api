@@ -1,13 +1,11 @@
 local GUILD_CONFIG = {
-    serverId = '1393068963763720413', -- Server ID
-    botToken = 'MTQwMjY1MDQxMzQ4OTE5NDI4.GbS3lz.r77d47O872kSmiXm9pRz_eeYxlRTF4l4x8YzfQ' -- Discord Token
+    serverId = '', -- Server ID
+    botToken = '' -- Discord Token
 }
 
 local PREMIUM_ROLES = {
-    ['supporter'] = '1400268193502728303', -- Role IDs
-    ['gunplug'] = '1400268193502728303', -- Role ID (Gunplug)
-    -- ['patron'] = '1400268193502728304',
-    -- ['elite'] = '1400268193502728305',
+    ['supporter'] = '', -- Role IDs
+    ['gunplug'] = '', -- Role ID (Gunplug)
 }
 
 local ROLE_CACHE = {}
