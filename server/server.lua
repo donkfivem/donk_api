@@ -1,6 +1,6 @@
 local GUILD_CONFIG = {
     serverId = '', -- Server ID
-    botToken = '' -- Discord Token
+    botToken = '' -- Token goes here
 }
 
 local PREMIUM_ROLES = {
